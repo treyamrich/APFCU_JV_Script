@@ -1,0 +1,37 @@
+07/31/20 13:19:50
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:45:14
+SUCCESS: Created 200717 JV.xlsx in C:\Users\Trey\Documents\TEST\200717 JV.xlsx
+SUCCESS: Overwrote VantivTRBDaily.csv in D:\Documents\Programming\Python Projects\APFCU VISA JV Script\VantivTRBDaily.csv
+
+07/31/20 14:45:36
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:45:44
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:48:57
+SUCCESS: Created 200717 JV.xlsx in C:\Users\Trey\Documents\TEST\200717 JV.xlsx
+SUCCESS: Overwrote VantivTRBDaily.csv in D:\Documents\Programming\Python Projects\APFCU VISA JV Script\VantivTRBDaily.csv
+
+07/31/20 14:49:08
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:49:26
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:50:19
+SUCCESS: Created 200717 JV.xlsx in C:\Users\Trey\Documents\TEST\200717 JV.xlsx
+SUCCESS: Overwrote VantivTRBDaily.csv in D:\Documents\Programming\Python Projects\APFCU VISA JV Script\VantivTRBDaily.csv
+
+07/31/20 14:51:58
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+07/31/20 14:52:14
+The columns have shifted. Template JV.xlsx's JV Sheet formulae must be updated
+
+09/01/20 08:36:58
+SUCCESS: Created 200717 JV.xlsx in C:\Users\Trey\Documents\TEST\200717 JV.xlsx
+SUCCESS: Overwrote VantivTRBDaily.csv in D:\Documents\Programming\Python Projects\APFCU VISA JV Script\VantivTRBDaily.csv
+
